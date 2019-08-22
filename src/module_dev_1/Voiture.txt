@@ -2,3 +2,7 @@ ligne ajout� par DEV1 et modifieé par DEV2
 <moduleSSO>
 	it's works!
 </moduleSS0>
+
+<moduleLIBSCAN_DEV1>
+	<version>001</version>
+</moduleLIBSCAN_DEV1>
