@@ -5,4 +5,5 @@ ligne ajout� par DEV1 et modifieé par DEV2
 
 <moduleLIBSCAN_DEV1>
 	<version>001</version>
+	<dependency>lombock_1</dependency>
 </moduleLIBSCAN_DEV1>
