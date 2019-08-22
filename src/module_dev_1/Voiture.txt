@@ -1,1 +1,4 @@
 ligne ajout� par DEV1 et modifieé par DEV2
+<moduleSSO>
+	it's works!
+</moduleSS0>
