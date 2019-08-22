@@ -1,7 +1,6 @@
 ligne ajout� par DEV1 et modifieé par DEV2
 <moduleSSO>
 	it's works!
-	<dependency>junit_001</dependency>
 </moduleSS0>
 
 <moduleLIBSCAN_DEV1>
